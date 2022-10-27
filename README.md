@@ -1,4 +1,5 @@
 - Antoine Gonthier, 18 Years old
+- Speciality: Front end & Back end Application on mobile, desktop, web and Artificial intelligence.
 - CEO & Founder at Kams App and Centurion AI 🏆
   
   <img height="40" src="https://media.discordapp.net/attachments/498933009177903105/1035108805207392266/IMG_9437.png?width=606&height=606">&nbsp;
