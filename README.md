@@ -1,3 +1,5 @@
+<h3 align="left"> About Me :</h3>
+
 - Antoine Gonthier, 18 Years old
 - Speciality: Front end & Back end Application on mobile, desktop, web and Artificial intelligence.
 - CEO & Founder at Kams App and Centurion AI 🏆
@@ -12,6 +14,8 @@
   
 - I’m currently learning C/C++ at @Epitech 🌱
 - Antoinegonthier11@icloud.com 📫
+
+<h3 align="left">Languages & Tools :</h3>
 
   <a href ="https://flutter.dev/"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg"></a>&nbsp;
 <a href ="https://console.firebase.google.com/"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg"></a>&nbsp;
