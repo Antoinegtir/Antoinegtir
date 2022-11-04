@@ -1,7 +1,8 @@
 <h3 align="left"> About Me :</h3>
 
 - Antoine Gonthier, 18 Years old
-- Speciality: Front end & Back end Application on mobile, desktop, web and Artificial intelligence.
+- Speciality: Front end & Back end Application on mobile, desktop, web & Artificial intelligence.
+- Currently learning about blockchain & web 3.0..
 - CEO & Founder at Kams App and Centurion AI 🏆
   
   <a href ="https://nfts-a5f24.firebaseapp.com/#SplashPage"><img height="40" src="https://media.discordapp.net/attachments/498933009177903105/1035108805207392266/IMG_9437.png?width=606&height=606"></a>&nbsp;
