@@ -16,15 +16,7 @@
 - Antoinegonthier11@icloud.com 📫
 
 <h3 align="left">Languages & Tools :</h3>
-
-  <a href ="https://flutter.dev/"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg"></a>&nbsp;
-<a href ="https://console.firebase.google.com/"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg"></a>&nbsp;
-<a href ="https://www.ruby-lang.org/fr/"><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-original.svg"></a>&nbsp;
-<a href ="https://dart.dev/"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original.svg"></a>&nbsp;
-<a href ="https://graphql.org/"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain.svg"></a>&nbsp;
-<a href ="https://kotlinlang.org/"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg"></a>&nbsp;
-<a href ="https://www.apple.com/fr/swift/"><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/swift/swift-original.svg"></a>&nbsp;
-<a href ="https://docs.soliditylang.org/en/v0.8.17/"><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg"></a>&nbsp;
+<a href="https://"><img src="https://skillicons.dev/icons?i=dart,kotlin,swift,firebase,graphql,solidity,ruby,js,html,css,docker,kubernetes" /></a>
 <!---
 Antoinegtir/Antoinegtir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
