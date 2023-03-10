@@ -13,7 +13,7 @@
  <a href ="https://www.substance3d.com/"><img height="20" src="https://user-images.githubusercontent.com/114834504/198241973-f677f275-5ca2-474d-923d-6e955d4dd925.png"></a>&nbsp;
   
 - I’m currently learning C/C++ at @Epitech 🌱
-- Antoinegonthier11@icloud.com 📫
+- antoine@kams-art.com 📫
 
 <h3 align="left">Languages & Tools :</h3>
 <a href="https://kams-art.com/"><img src="https://skillicons.dev/icons?i=dart,kotlin,swift,firebase,graphql,solidity,ruby,js,html,css,docker,kubernetes" /></a>
