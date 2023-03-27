@@ -11,7 +11,7 @@
 - antoine@kams-art.com 📫
 
 <h3 align="left">Languages & Tools :</h3>
-<a href="https://kams-art.com/"><img src="https://skillicons.dev/icons?i=dart,kotlin,swift,firebase,graphql,solidity,ruby,js,html,css,docker,kubernetes,perl,c,cmake" /></a>
+<a href="https://kams-art.com/"><img src="https://skillicons.dev/icons?i=dart,kotlin,swift,firebase,graphql,solidity,ruby,js,docker,kubernetes,perl,c,cmake" /></a>
 <!---
 Antoinegtir/Antoinegtir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
