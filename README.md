@@ -1,7 +1,8 @@
 <h3 align="left"> About Me :</h3>
 
 - Antoine Gonthier, 18 Years old
-- Speciality: Front end & Back end Application on mobile, desktop, web & Artificial intelligence.
+- Speciality: Front end & Back end Application on mobile, desktop, web.
+- Developer Freelance on fiverr
 - Founder at Kams Art
   
   <a href ="https://kams-art.com/"><img height="60" src="https://media.discordapp.net/attachments/498933009177903105/1035108805207392266/IMG_9437.png?width=606&height=606"></a>&nbsp;
