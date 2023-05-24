@@ -18,7 +18,7 @@
 
 
 
-### <p align="center">🎨 Best Project</p>
+### <p align="center">🎨 Favorite Project</p>
 ----
 <p align="center"><a href ="https://kams-art.com/"><img  height="60" src="https://media.discordapp.net/attachments/498933009177903105/1035108805207392266/IMG_9437.png?width=606&height=606"></a></p>
 
