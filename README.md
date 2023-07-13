@@ -1,5 +1,5 @@
 
-<a href="https://antoine-gonthier.web.app"><img src="https://firebasestorage.googleapis.com/v0/b/threads-instagram.appspot.com/o/Design_sans_titre_-_1%203.png?alt=media&token=7ae41294-f79f-4065-902c-44196f6a5e7f"></img></a>
+<a href="https://antoine-gonthier.web.app"><img src="https://firebasestorage.googleapis.com/v0/b/threads-instagram.appspot.com/o/Design_sans_titre_-_1%203-min.png?alt=media&token=cb3a422f-f0aa-4e6e-8db4-bba4c06c87b3"></img></a>
 
 <p align="center">I'm a Antoine Gonthier, 18 years old, Epitech Student & Full-stack Flutter developer passionate about developping cool graphical interface on application that i develop. I love developping server in order to create link between people innovate & learn new technologies.</p>
 
