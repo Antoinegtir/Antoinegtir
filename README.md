@@ -22,7 +22,7 @@
 ----
 <p align="center"><a href ="https://kams-art.com/"><img  height="60" src="https://media.discordapp.net/attachments/498933009177903105/1035108805207392266/IMG_9437.png?width=606&height=606"></a></p>
 
-<h3 align="center">I am the founder at Kams witch is a social network that allows artist to publish their creation without quality lost, when a creation is published you can buy it as a real frame in order to add life to your room. It is an app where all artists can exchange their knowledge easily, participate in contests and even more...</h3>
+<h3 align="center">I am the founder of Kams which is a social network that allows artist to publish their creation without quality lost, when a creation is published you can buy it as a real frame in order to add life to your room. It is an app where all artists can exchange their knowledge easily, participate in contests and even more...</h3>
 
 # <p align="center">🔗 Links</p>
 ----
