@@ -1,7 +1,7 @@
 
 <a href="https://antoine-gonthier.web.app"><img src="https://firebasestorage.googleapis.com/v0/b/threads-instagram.appspot.com/o/Design_sans_titre_-_1%203-min.png?alt=media&token=cb3a422f-f0aa-4e6e-8db4-bba4c06c87b3"></img></a>
 
-<h3 align="center">I'm Antoine Gonthier, 18 years old, Epitech Student & Full-stack Flutter developer passionate about developing cool graphical interface on the application that I develop. I love developing server in order to create link between people, innovate & learn new technologies.</h3>
+<h3 align="center">I'm Antoine Gonthier, 18 years old, Epitech Student & Full-stack Flutter developer passionate about developing cool graphical interface on the application that I develop. I love developing servers in order to create link between people, innovate & learn new technologies.</h3>
 
 # <p align="center">⚙️ Technical Skills</p>
 ----
