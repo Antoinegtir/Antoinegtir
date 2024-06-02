@@ -16,11 +16,11 @@
   </a>
 </p>
 
-# <p align="center">🎨 Favorite Project</p>
+# <p align="center">⚙️ Work</p>
 
-<p align="center"><a href ="https://kams-art.com/"><img  height="60" src="https://media.discordapp.net/attachments/498933009177903105/1035108805207392266/IMG_9437.png?width=606&height=606"></a></p>
+<p align="center"><a href ="https://http://vibeswidget.com"><img  height="60" src="https://play-lh.googleusercontent.com/eyJWARbK5Raf9r5C-aaRLSCkAIPwBibz5PvOz9LI56ZsTLEB3HDxo4tn_nmqwVXd5A=w240-h480-rw"></a></p>
 
-<h3 align="center">I am the founder of Kams which is a social network that allows artist to publish their creation without quality lost and ensure protection of intellectual properties.</h3>
+<h3 align="center">I am currently developing the Android app of Vibes Widget.</h3>
 
 # <p align="center">🔗 Links</p>
 
