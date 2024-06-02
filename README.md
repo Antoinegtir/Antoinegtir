@@ -18,7 +18,7 @@
 
 # <p align="center">⚙️ Work</p>
 
-<p align="center"><a href ="https://http://vibeswidget.com"><img  height="60" src="https://play-lh.googleusercontent.com/eyJWARbK5Raf9r5C-aaRLSCkAIPwBibz5PvOz9LI56ZsTLEB3HDxo4tn_nmqwVXd5A=w240-h480-rw"></a></p>
+<p align="center"><a href ="http://vibeswidget.com"><img  height="60" src="https://play-lh.googleusercontent.com/eyJWARbK5Raf9r5C-aaRLSCkAIPwBibz5PvOz9LI56ZsTLEB3HDxo4tn_nmqwVXd5A=w240-h480-rw"></a></p>
 
 <h3 align="center">I am currently developing the Android app of Vibes Widget.</h3>
 
