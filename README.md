@@ -1,7 +1,7 @@
 
 <a><img src="./iphone.png"></img></a>
 
-<h3 align="center">I'm Antoine Gonthier, 19 y.o, Epitech Student & Full-stack Flutter developer passionate about developing cool graphical interface on the application that I develop. I love developing servers in order to create link between people, innovate & learn new technologies.</h3>
+<h3 align="center">I'm Antoine Gonthier, Epitech Student & Full-stack Flutter developer passionate about developing cool graphical interface on the application that I develop. I love developing servers in order to create link between people, innovate & learn new technologies.</h3>
 
 # <p align="center">⚙️ Technical Skills</p>
 
