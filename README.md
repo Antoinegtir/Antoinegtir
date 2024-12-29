@@ -1,28 +1,78 @@
 
 <a><img src="./iphone.png"></img></a>
 
-<h3 align="center">I'm Antoine Gonthier, Epitech Student & Full-stack Flutter developer passionate about developing cool graphical interface on the application that I develop. I love developing servers in order to create link between people, innovate & learn new technologies.</h3>
+<h3 align="center">All you have to know about me is that i am building fun apps ✨</h3>
 
 # <p align="center">⚙️ Technical Skills</p>
 
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=flutter,mongodb,express,firebase,nodejs,js,dart,mysql,ruby,docker" />
-  </a>
-</p>
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=html,css,swift,gradle,graphql,git,github,supabase,kotlin,perl" />
-  </a>
-</p>
+You know lol...
 
-# <p align="center">⚙️ Work</p>
+# <p align="center">🤫 Current Projects</p>
 
-<p align="center"><a href ="http://vibeswidget.com"><img  height="60" src="https://play-lh.googleusercontent.com/eyJWARbK5Raf9r5C-aaRLSCkAIPwBibz5PvOz9LI56ZsTLEB3HDxo4tn_nmqwVXd5A=w240-h480-rw"></a></p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="http://vibeswidget.com">
+        <img src="vibes.png" alt="Vibes" width="50" style="border-radius: 10px; margin-right: 10px;">
+      </a>
+    </td>
+    <td>
+      <a href="http://vibeswidget.com" style="text-decoration: none;">
+        <span style="font-size: 20px;">Vibes (+2.3m users)</span>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="http://dreamoji.ai">
+        <img src="dreamoji.png" alt="Dreamoji" width="50" style="border-radius: 10px; margin-right: 10px;">
+      </a>
+    </td>
+    <td>
+      <a href="http://dreamoji.ai" style="text-decoration: none;">
+        <span style="font-size: 20px;">Dreamoji (+230k users)</span>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="">
+        <img src="github.png" alt="Open source projects" width="50" style="border-radius: 10px; margin-right: 10px;">
+      </a>
+    </td>
+    <td>
+      <a href="" style="text-decoration: none;">
+        <span style="font-size: 20px;">Open source projects (+30k uses)</span>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="http://revisio-ai.web.app">
+        <img src="cogito.png" alt="Cogito" width="50" style="border-radius: 10px; margin-right: 10px;">
+      </a>
+    </td>
+    <td>
+      <a href="http://revisio-ai.web.app" style="text-decoration: none;">
+        <span style="font-size: 20px;">Cogito (⏳)</span>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="http://revisio-ai.web.app">
+        <img src="oros.png" alt="Cogito" width="50" style="border-radius: 10px; margin-right: 10px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://oros-nantes.web.app" style="text-decoration: none;">
+        <span style="font-size: 20px;">Oros (⏳)</span>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">I am currently developing the Android app of Vibes Widget.</h3>
-
-# <p align="center">🔗 Links</p>
+# <p align="center">🔗 Contacts</p>
 
 <p align="center">
   <a href="https://medium.com/@zkhwctb">
