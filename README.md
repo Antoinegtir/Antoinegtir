@@ -1,28 +1,36 @@
 
 <a><img src="./iphone.png"></img></a>
 
-<h3 align="center">I'm Antoine Gonthier, Epitech Student & Full-stack Flutter developer passionate about developing cool graphical interface on the application that I develop. I love developing servers in order to create link between people, innovate & learn new technologies.</h3>
+<h3 align="center">All you have to know about me is that i am building fun apps ✨</h3>
 
 # <p align="center">⚙️ Technical Skills</p>
 
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=flutter,mongodb,express,firebase,nodejs,js,dart,mysql,ruby,docker" />
+You know lol ...
+
+# <p align="center">🤫 Current Projects</p>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; padding: 20px;">
+  <a href="http://vibeswidget.com" style="display: flex; align-items: center; text-decoration: none; padding: 10px; border: 1px solid #2f353d; border-radius: 20px; width: 100%; max-width: 400px;">
+    <img src="vibes.png" alt="Vibes" style="width: 50px; height: 50px; border-radius: 10px; margin-right: 10px;">
+    <span style="font-size: 20px;">Vibes (+2.3m users)</span>
   </a>
-</p>
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=html,css,swift,gradle,graphql,git,github,supabase,kotlin,perl" />
+  <a href="http://dreamoji.ai" style="display: flex; align-items: center; text-decoration: none; padding: 10px; border: 1px solid #2f353d; border-radius: 20px; width: 100%; max-width: 400px;">
+    <img src="dreamoji.png" alt="Dreamoji" style="width: 50px; height: 50px; border-radius: 10px; margin-right: 10px;">
+    <span style="font-size: 20px;">Dreamoji (+230k users)</span>
   </a>
-</p>
+  <a href="" style="display: flex; align-items: center; text-decoration: none; padding: 10px; border: 1px solid #2f353d; border-radius: 20px; width: 100%; max-width: 400px;">
+    <img src="github.png" alt="Open source projects" style="width: 50px; height: 50px; border-radius: 10px; margin-right: 10px;">
+    <span style="font-size: 20px;">Open source projects (+30k uses)</span>
+  </a>
+  <a href="http://revisio-ai.web.app" style="display: flex; align-items: center; text-decoration: none; padding: 10px; border: 1px solid #2f353d; border-radius: 20px; width: 100%; max-width: 400px;">
+    <img src="cogito.png" alt="Cogito" style="width: 50px; height: 50px; border-radius: 10px; margin-right: 10px;">
+    <span style="font-size: 20px;">Cogito (⏳)</span>
+  </a>
+  <a href="" style="display: flex; align-items: center; text-decoration: none; padding: 10px; border: 1px solid #2f353d; border-radius: 20px; width: 100%; max-width: 400px;">
+    <span style="font-size: 20px;">Locked In (⏳)</span>
+  </a>
+</div>
 
-# <p align="center">⚙️ Work</p>
-
-<p align="center"><a href ="http://vibeswidget.com"><img  height="60" src="https://play-lh.googleusercontent.com/eyJWARbK5Raf9r5C-aaRLSCkAIPwBibz5PvOz9LI56ZsTLEB3HDxo4tn_nmqwVXd5A=w240-h480-rw"></a></p>
-
-<h3 align="center">I am currently developing the Android app of Vibes Widget.</h3>
-
-# <p align="center">🔗 Links</p>
+# <p align="center">🔗 Contacts</p>
 
 <p align="center">
   <a href="https://medium.com/@zkhwctb">
