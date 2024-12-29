@@ -70,6 +70,18 @@ You know lol...
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://lockedin.fyi">
+        <img src="lockedin.png" alt="Cogito" width="50" style="border-radius: 10px; margin-right: 10px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://lockedin.fyi" style="text-decoration: none;">
+        <span style="font-size: 20px;">Locked In (⏳)</span>
+      </a>
+    </td>
+  </tr>
 </table>
 
 # <p align="center">🔗 Contacts</p>
