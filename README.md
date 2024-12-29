@@ -36,7 +36,7 @@ You know lol...
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Antoinegtir">
+      <a href="https://github.com/Antoinegtir?tab=repositories">
         <img src="github.png" alt="Open source projects" width="50" style="border-radius: 10px; margin-right: 10px;">
       </a>
     </td>
