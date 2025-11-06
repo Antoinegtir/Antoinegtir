@@ -5,7 +5,7 @@
 
 # <p align="center">⚙️ Technical Skills</p>
 
-You know lol...
+SwiftUI & Java
 
 # <p align="center">🤫 Current Projects</p>
 
@@ -18,7 +18,7 @@ You know lol...
     </td>
     <td>
       <a href="http://vibeswidget.com" style="text-decoration: none;">
-        <span style="font-size: 20px;">Vibes (+2.3m users)</span>
+        <span style="font-size: 20px;">Vibes (+3m users)</span>
       </a>
     </td>
   </tr>
@@ -30,7 +30,7 @@ You know lol...
     </td>
     <td>
       <a href="http://dreamoji.ai" style="text-decoration: none;">
-        <span style="font-size: 20px;">Dreamoji (+230k users)</span>
+        <span style="font-size: 20px;">Dreamoji (+300k users)</span>
       </a>
     </td>
   </tr>
@@ -53,35 +53,12 @@ You know lol...
       </a>
     </td>
     <td>
-      <a href="http://revisio-ai.web.app" style="text-decoration: none;">
-        <span style="font-size: 20px;">Cogito (⏳)</span>
+      <a href="http://cognifynote.com" style="text-decoration: none;">
+        <span style="font-size: 20px;">Cognify (+40k users)</span>
       </a>
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="http://revisio-ai.web.app">
-        <img src="oros.png" alt="Cogito" width="50" style="border-radius: 10px; margin-right: 10px;">
-      </a>
-    </td>
-    <td>
-      <a href="https://oros-nantes.web.app" style="text-decoration: none;">
-        <span style="font-size: 20px;">Oros (⏳)</span>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://lockedin.fyi">
-        <img src="lockedin.png" alt="Cogito" width="50" style="border-radius: 10px; margin-right: 10px;">
-      </a>
-    </td>
-    <td>
-      <a href="https://lockedin.fyi" style="text-decoration: none;">
-        <span style="font-size: 20px;">Locked In (⏳)</span>
-      </a>
-    </td>
-  </tr>
 </table>
 
 # <p align="center">🔗 Contacts</p>
