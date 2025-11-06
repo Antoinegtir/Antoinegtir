@@ -49,7 +49,7 @@ SwiftUI & Java
   <tr>
     <td>
       <a href="http://revisio-ai.web.app">
-        <img src="cogito.png" alt="Cogito" width="50" style="border-radius: 10px; margin-right: 10px;">
+        <img src="cognify.png" alt="Cognify" width="50" style="border-radius: 10px; margin-right: 10px;">
       </a>
     </td>
     <td>
